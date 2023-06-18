@@ -1,0 +1,4 @@
+train: data_images/train
+val: data_images/test
+nc: 8
+names: ['Pothole', 'Car', 'Person', 'Motorcycle', 'Scooter', 'Auto', 'Lorry', 'Bike']
